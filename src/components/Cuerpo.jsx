@@ -1,12 +1,12 @@
 import React from 'react'
 import '../utils/css/Cuerpo.estilos.css'
-import Juan from '../utils/images/Juan.jpg'
+import Juan from '../utils/images/lindura.jpg'
 function Cuerpo() {
     return (
         <div className="Container_Cuerpo">
             
             <div className="ContainerText">
-                <h1>Hola este es el componente de la cabecera</h1>
+                <h1> DATOS SOBRE MI VIDA </h1>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit sunt illo minima adipisci nulla odit quas, voluptate, quibusdam fugit id neque ab minus veniam. Numquam odio amet neque maxime obcaecati.
                     Culpa eveniet repellat praesentium corporis debitis aliquid nesciunt ad fugiat, excepturi quibusdam quidem sapiente voluptas cupiditate pariatur labore explicabo reprehenderit non ex minus esse commodi quod. Veritatis nihil iure reprehenderit.

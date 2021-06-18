@@ -2,7 +2,7 @@ import  {createGlobalStyle} from 'styled-components'
 import PrimaryFont from './utils/fonts/Hind-Light.woff'
 
 
-const GlobalStyles = createGlobalStyle`
+const GlobalStyle = createGlobalStyle`
 .ContainerText{
     display: flex;
     flex-direction: column;
@@ -13,19 +13,19 @@ const GlobalStyles = createGlobalStyle`
 }
 .ContainerText p{
     font-family: 'Hind';
-    font-size: 30px;
+    font-size: 18px;
     margin: 0 20px;
 }
 
 .ContainerImage{
     display: flex;
-    width: 50%;
+    width: 40%;
     margin-right: 10px;
     justify-content: center;
 }
 .ContainerImage img{
     width: 100%;
-    height: auto;
+    height: auto; 
 }
 
 /* fuentes*/
@@ -37,5 +37,4 @@ const GlobalStyles = createGlobalStyle`
 }
 `;
 
-
-export default  GlobalStyles;
+export default GlobalStyle
