@@ -35,6 +35,24 @@ const GlobalStyle = createGlobalStyle`
     src: local('Hind'), url(${PrimaryFont}) format('woff');
     font-style: normal;
 }
+
+//estilos para los botones
+button{
+    border-radius:5px;
+    width: auto;
+    height: 30px;
+    justify-content: space-between;
+    margin: 3px 0px; 
+    font-size:15px;
+    
+    
+}
+
+.button a{
+    color:white;
+}
+
 `;
+
 
 export default GlobalStyle

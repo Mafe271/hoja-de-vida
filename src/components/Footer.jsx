@@ -8,13 +8,12 @@ const Footer = () => {
             <div className="ContainerText">
                 <h1> HOBBIES E EXPERIENCIAS </h1>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit sunt illo minima adipisci nulla odit quas, voluptate, quibusdam fugit id neque ab minus veniam. Numquam odio amet neque maxime obcaecati.
-                    Culpa eveniet repellat praesentium corporis debitis aliquid nesciunt ad fugiat, excepturi quibusdam quidem sapiente voluptas cupiditate pariatur labore explicabo reprehenderit non ex minus esse commodi quod. Veritatis nihil iure reprehenderit.
-                    Iusto quaerat, nam sequi delectus fugit fuga corporis. Reprehenderit ratione perferendis exercitationem fuga voluptatum ducimus quo explicabo nemo optio tempora! Soluta animi nemo voluptates, accusamus illo tenetur laboriosam sapiente doloribus?
+                    Mis hobbies son el fútbol me gusta demasiado en el colegio estaba en el equipo del salon y del colegio representandolo ,me encanta pasar tiempo con mi familia
+                    tambien otro hobbie es el patinaje lo practicaba antes,otro de estos es el estar en contacto con los animales asi que trato de ir siempre a las fincas a colaborar en lo que necesiten lo animales de esta misma.<h1></h1> Una de mis experiencias con esto fue que me caía demasiado y de cara era la mas frecuente. En la vida he tenido muchas experiencias buenas , malas y como en todo he aprendido de esto porque para eso uno se equivoca para volverlas a cometer,este año una de mis mas grandes experiencias es lo que cada día aprendo en lo que estoy estudiando.
                 </p>
             </div>
             <div className="ContainerImage">
-                <img  id="image1" src={image1} alt="hola este es Juan"  />
+                <img  id="image1" src={image1} alt="hola este es Mafe"  />
             </div>
             
 
