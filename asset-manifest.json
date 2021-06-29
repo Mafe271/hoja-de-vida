@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hoja-de-vida/static/css/main.05b7a4ec.chunk.css",
+    "main.js": "/hoja-de-vida/static/js/main.1d8d4f0c.chunk.js",
+    "main.js.map": "/hoja-de-vida/static/js/main.1d8d4f0c.chunk.js.map",
+    "runtime-main.js": "/hoja-de-vida/static/js/runtime-main.6335429c.js",
+    "runtime-main.js.map": "/hoja-de-vida/static/js/runtime-main.6335429c.js.map",
+    "static/js/2.3ea9dc64.chunk.js": "/hoja-de-vida/static/js/2.3ea9dc64.chunk.js",
+    "static/js/2.3ea9dc64.chunk.js.map": "/hoja-de-vida/static/js/2.3ea9dc64.chunk.js.map",
+    "index.html": "/hoja-de-vida/index.html",
+    "static/css/main.05b7a4ec.chunk.css.map": "/hoja-de-vida/static/css/main.05b7a4ec.chunk.css.map",
+    "static/js/2.3ea9dc64.chunk.js.LICENSE.txt": "/hoja-de-vida/static/js/2.3ea9dc64.chunk.js.LICENSE.txt",
+    "static/media/Hind-Light.54de0041.woff": "/hoja-de-vida/static/media/Hind-Light.54de0041.woff",
+    "static/media/familia.877eec13.jpg": "/hoja-de-vida/static/media/familia.877eec13.jpg",
+    "static/media/fotomia.4dd6e936.jpg": "/hoja-de-vida/static/media/fotomia.4dd6e936.jpg",
+    "static/media/lindura.4118e36b.jpg": "/hoja-de-vida/static/media/lindura.4118e36b.jpg",
+    "static/media/logo.6ce24c58.svg": "/hoja-de-vida/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6335429c.js",
+    "static/js/2.3ea9dc64.chunk.js",
+    "static/css/main.05b7a4ec.chunk.css",
+    "static/js/main.1d8d4f0c.chunk.js"
+  ]
+}
